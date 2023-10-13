@@ -17,7 +17,7 @@ div{
     /*flex-wrap: wrap;*/
     align-items:flex-start;
     /*align-content: flex-start;*/
-    flex-grow: ;
+    flex-grow:  grow;
 
 }
 #box1{
@@ -34,7 +34,7 @@ div{
     background-color: blue;
 }
 #box4{
-   ;
+   
     background-color: black;
 }
 #box5{
